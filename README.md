@@ -1,1 +1,1 @@
-https://roadmap.sh/projects/server-stats
+https://github.com/InvincibleVicky/script-file
